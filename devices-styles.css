@@ -1,0 +1,29 @@
+@media (min-width: 280px) and (max-width: 639px) {
+    header {
+        height: 25vh;
+    }
+    .number {
+        width: 10rem;
+        font-size: 3rem;
+        padding: 1rem 0;
+    }
+    .right {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) { 
+    .number {
+        width: 10rem;
+        font-size: 3rem;
+        padding: 1rem 0;
+    }
+}
+
+@media (min-width: 768px) {  
+    .number {
+        width: 10rem;
+        font-size: 3rem;
+        padding: 1rem 0;
+    }
+}
