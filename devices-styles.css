@@ -20,7 +20,7 @@
     }
 }
 
-@media (min-width: 768px) {  
+@media (min-width: 768px) and (max-width: 1025px) {  
     .number {
         width: 10rem;
         font-size: 3rem;
