@@ -2,7 +2,7 @@
 
 This is a Javascript game with Math.random() function.
 
-![ToDoApp React Redux](http://komornyi.space/static/img/projects/1.png)
+![Guess my Number](http://komornyi.space/static/img/projects/1.png)
 
 ### Technologies
 
